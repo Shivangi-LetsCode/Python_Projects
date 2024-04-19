@@ -8,4 +8,6 @@ Thank You
 Explanation including Motive, Code and Methods are already written in the files of each project. All projects running state file are also uploaded along eith code.
 
 PROJECTS INCLUDED:
- 1. NUMBER GUESSING GAME: DESKTOP APPLICATION
+-> NUMBER GUESSING GAME: DESKTOP APPLICATION
+-> LOAN EMI CALCULATOR
+-> DOWNLOAD YOUTUBE VIDEO
